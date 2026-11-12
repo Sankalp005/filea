@@ -1,2 +1,3 @@
 file in git local respo
 the change is done 
+gi
